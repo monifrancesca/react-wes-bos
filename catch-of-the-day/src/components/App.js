@@ -46,7 +46,7 @@ class App extends React.Component {
     return (
       <div className="catch-of-the-day">
         <div className="menu">
-          <Header tagline="Fresh Seafood Market Why is this not working?" />
+          <Header tagline="Fresh Seafood Market Why is this not working? I'm taking today off." />
           <ul className="list-of-fishes">
             {
               Object
